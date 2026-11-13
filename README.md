@@ -203,4 +203,4 @@ This repository serves as the official landing page for Navos. The software is d
 **Get the most recent version of Navos today!**
 
 ---
-**Last updated:** 2026-11-13 10:10:49 UTC
+**Last updated:** 2026-11-13 18:12:19 UTC
